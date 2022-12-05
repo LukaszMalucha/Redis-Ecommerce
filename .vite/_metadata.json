@@ -1,0 +1,61 @@
+{
+  "hash": "a46cb5cd",
+  "browserHash": "2ba3f0ad",
+  "optimized": {
+    "svelte": {
+      "file": "D:/Workshop/redis_ecommerce/.vite/svelte.js",
+      "src": "D:/Workshop/redis_ecommerce/node_modules/svelte/index.mjs",
+      "needsInterop": false
+    },
+    "svelte/store": {
+      "file": "D:/Workshop/redis_ecommerce/.vite/svelte_store.js",
+      "src": "D:/Workshop/redis_ecommerce/node_modules/svelte/store/index.mjs",
+      "needsInterop": false
+    },
+    "luxon": {
+      "file": "D:/Workshop/redis_ecommerce/.vite/luxon.js",
+      "src": "D:/Workshop/redis_ecommerce/node_modules/luxon/src/luxon.js",
+      "needsInterop": false
+    },
+    "chart.js": {
+      "file": "D:/Workshop/redis_ecommerce/.vite/chart_js.js",
+      "src": "D:/Workshop/redis_ecommerce/node_modules/chart.js/dist/chart.esm.js",
+      "needsInterop": false
+    },
+    "chartjs-adapter-luxon": {
+      "file": "D:/Workshop/redis_ecommerce/.vite/chartjs-adapter-luxon.js",
+      "src": "D:/Workshop/redis_ecommerce/node_modules/chartjs-adapter-luxon/dist/chartjs-adapter-luxon.esm.js",
+      "needsInterop": false
+    },
+    "svelte/motion": {
+      "file": "D:/Workshop/redis_ecommerce/.vite/svelte_motion.js",
+      "src": "D:/Workshop/redis_ecommerce/node_modules/svelte/motion/index.mjs",
+      "needsInterop": false
+    },
+    "svelte/easing": {
+      "file": "D:/Workshop/redis_ecommerce/.vite/svelte_easing.js",
+      "src": "D:/Workshop/redis_ecommerce/node_modules/svelte/easing/index.mjs",
+      "needsInterop": false
+    },
+    "classnames": {
+      "file": "D:/Workshop/redis_ecommerce/.vite/classnames.js",
+      "src": "D:/Workshop/redis_ecommerce/node_modules/classnames/index.js",
+      "needsInterop": true
+    },
+    "svelte/animate": {
+      "file": "D:/Workshop/redis_ecommerce/.vite/svelte_animate.js",
+      "src": "D:/Workshop/redis_ecommerce/node_modules/svelte/animate/index.mjs",
+      "needsInterop": false
+    },
+    "svelte/internal": {
+      "file": "D:/Workshop/redis_ecommerce/.vite/svelte_internal.js",
+      "src": "D:/Workshop/redis_ecommerce/node_modules/svelte/internal/index.mjs",
+      "needsInterop": false
+    },
+    "svelte/transition": {
+      "file": "D:/Workshop/redis_ecommerce/.vite/svelte_transition.js",
+      "src": "D:/Workshop/redis_ecommerce/node_modules/svelte/transition/index.mjs",
+      "needsInterop": false
+    }
+  }
+}
